@@ -48,7 +48,8 @@ for a in G1x:       #iterate through each node in the seed_G1.edgelist file
     max2 = 0
     maxNode = 0
     scoreList = []
-    
+    if index-1 == 4563:
+        break
     for b in G2x:       #iterate through each node in seed_G2.edgefile
         while G2x[j] == index2:     #check if j still points to current working node
             if G2y[j] in mappedNeighbors:   #see if mapped edges list matches any G2 edges
