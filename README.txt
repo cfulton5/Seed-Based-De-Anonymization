@@ -1,10 +1,3 @@
-Author: Christopher Fulton
-For: GSU Privacy 2021 Final Project
-
-This project can be found on my GitHub: https://github.com/cfulton5/Seed-Based-De-Anonymization
-
-This course project was written entirely in Python 3.7.9 using the Statistics and Math modules.
-
 A full mapping of the node and edge pairs also required the use of the Stanford Network Analysis
 Platform (SNAP). This requires the installation of "snap.py" from https://snap.stanford.edu/snappy/
 
